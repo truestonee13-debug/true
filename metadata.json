@@ -1,0 +1,5 @@
+{
+  "name": "Cinematic Bible Prompt Generator",
+  "description": "An AI-powered tool that transforms Bible verses into detailed, realistic, and cinematic video prompts for AI video generation models like Sora and Veo, available in multiple languages.",
+  "requestFramePermissions": []
+}
